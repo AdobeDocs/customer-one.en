@@ -16,7 +16,7 @@ We are working to improve how you interact with Adobe Customer Support. Our visi
 
 ## Need Help with the new Support Platform?
  
-We are offering a series of online meetings where customers may bring their questions about the new support process.  Select one or more to join:
+We are offering a series of online meetings in which customers may bring their questions about the new support process. Select one or more to join:
  
 |Detail |Day |Date |Registration Links |
 |--- |--- |--- |--- |
