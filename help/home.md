@@ -25,7 +25,7 @@ We are offering a series of online meetings where customers may bring their ques
 |[April 20 at 8am PT](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2)|Wed|20-Apr|<https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2>|
 |[April 20 at 5pm PT](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16)|Wed|20-Feb|<https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16>|
 |[April 21 at 8am PT](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98)|Thurs|21-Apr|<https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98>|
-|[April 21 at 5pm PT(https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446)]|Thurs|21-Apr|<https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446>|
+|[April 21 at 5pm PT](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446)|Thurs|21-Apr|<https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446>|
 
 ## How to submit an Admin Console support ticket {#submit-ticket}
 
