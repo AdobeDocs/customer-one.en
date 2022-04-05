@@ -1,8 +1,8 @@
 ---
 title: Contact Adobe Customer Care
 description: Information about contacting Adobe Customer Care for teams, enterprise, and Experience Cloud customers.
+exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
 ---
-
 # Enterprise and teams | Contact Adobe Customer Care
 
 To contact Adobe Customer Care, navigate to the **Support** tab in the [Admin Console](https://adminconsole.adobe.com/).
