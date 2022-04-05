@@ -15,16 +15,22 @@ If you are unsure about your subscription plan, navigate to the **Support tab** 
 
 ![team image](assets/team.png)
 
+<!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## For enterprise account
 
 ![team image](assets/enterprise.png)
 
+<!--
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## For Experience Cloud
 
 ![team image](assets/ec.png)
 
+<!--
 [Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
