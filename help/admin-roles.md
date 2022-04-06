@@ -39,7 +39,7 @@ _Admin roles hierarchy_
 
 For a detailed list of permissions and privileges for each admin role, see [Permissions](#enterprise-admins-permissions-matrix).
 
-## Add an enterprise admin
+## Add an enterprise admin role {#add-enterprise-role}
 
 Applies to: Adobe enterprise customers.
 

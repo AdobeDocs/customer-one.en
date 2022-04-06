@@ -37,7 +37,7 @@ In order to submit a support ticket in [Admin Console](https://adminconsole.adob
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
-To assign the Support admin role, follow the [edit enterprise admin role](admin-roles.md#add-admin-teams) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
+To assign the Support admin role, follow the [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
 
 ### Create a support ticket with Admin Console
 
