@@ -14,21 +14,6 @@ Support Tickets are now able to be submitted via the [Admin Console](https://adm
 
 We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal.
 
-## Need Help with the new Support Platform?
- 
-We are offering a series of online meetings in which customers may bring their questions about the new support process. Select one or more to join:
- 
-|Date and Time |Registration Link |
-|--- |--- |
-|Thursday, April 7 at 8am PT|[Event Link](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85)|
-|Thursday, April 7 at 5pm PT|[Event Link](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C)|
-|Wednesday, April 20 at 8am PT|[Event Link](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2)|
-|Wednesday, April 20 at 5pm PT|[Event Link](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16)|
-|Thursday, April 21 at 8am PT|[Event Link](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98)|
-|Thursday, April 21 at 5pm PT|[Event Link](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446)|
-
-{style="table-layout:auto"}
-
 ## How to submit an Admin Console support ticket {#submit-ticket}
 
 In order to submit a support ticket in [Admin Console](https://adminconsole.adobe.com/), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. For more information, visit the [enterprise and teams customer care](customer-care.md) documentation.
