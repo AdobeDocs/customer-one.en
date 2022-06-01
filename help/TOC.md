@@ -14,3 +14,6 @@ user-guide-title: [!DNL Customer One for Enterprise] Help
 + Reference Documents {#ref-docs}
   + [Prior Announcement](intro-customer-support.md)
   + [Parkour Now Announcement](parkour-now.md)
++ Workfront Documents {#workfront}
+  + [Overview](overview.md)
+  + [FAQ](faq.md)
