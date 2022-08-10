@@ -16,4 +16,5 @@ user-guide-title: [!DNL Customer One for Enterprise] Help
   + [Parkour Now Announcement](parkour-now.md)
 + Workfront Documents {#workfront}
   + [Overview](overview.md)
+  + [Landing](landing.md)
   + [FAQ](faq.md)
