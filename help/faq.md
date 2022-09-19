@@ -13,13 +13,13 @@ The Adobe Business Platform gives administrators and functional leads a state-of
 
 +++**Why do customers need to move to Adobe Identity and Admin Console (AAC)?**
 
-Customers will experience and even more secure and intuitive administrative console by moving to Adobe Business Platform. 
+Customers will experience an even more secure and intuitive administrative console by moving to Adobe Business Platform. 
 
 +++
 
 +++**When will customers need to move to AAC?**
 
-Customers will be contacted to coordinate their move to Adobe Identity and Admin Console beginning in the second half of 2022 continuing into 2023 
+Customers will be contacted to coordinate their move to Adobe Identity and Admin Console beginning in the second half of 2022 continuing into 2023.
 
 +++
 
@@ -45,13 +45,13 @@ Customers will receive instructions and coordination from an internal Workfront 
 
 +++**What new features are in AAC not currently available to customers in Workfront?**
 
-Please see this document (link to 1 pager) highlighting some of the new feature additions available. 
+Please see [this document](overview.md) highlighting some of the new feature additions available. 
 
 +++
 
 +++**What are the training resources available for AAC?**
 
-??
+<https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
