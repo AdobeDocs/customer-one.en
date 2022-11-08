@@ -2,6 +2,7 @@
 keywords: Workfront support;submit support ticket;customer support
 title: Adobe Workfront Support Overview
 description: Adobe Workfront is joining into Adobe Admin Console Platform.
+exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
 ---
 # Adobe Workfront Support Overview
 
