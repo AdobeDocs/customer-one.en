@@ -55,6 +55,10 @@ Users must click **Get started** in the email to join the organization. If new a
 
 As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose **Join Team** (if prompted) and then select the profile associated with the new organization.
 
+![Admin rights confirmation](assets/admin-rights-confirmation.png)
+
+For more details follow the [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
+
 ### Create a support ticket with Admin Console
 
 To create a ticket using [Admin Console](https://adminconsole.adobe.com/), select the **[!UICONTROL Support]** tab located in the top navigation. The [!UICONTROL Support Summary] page appears. Next, select the **[!UICONTROL Create Case]** option.
