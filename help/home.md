@@ -42,8 +42,8 @@ To assign a Support Admin role to a user (enable a user to be able to contact su
 
 1. Choose one of the following two options:
 
-   * Option 1: **[!UICONTROL Basic support administrator]**. Select this option if you would like to give the user support access for all solutions (except Marketo).
-   * Option 2: **[!UICONTROL Product support administrator]**: Select this option for Marketo support. Select which Marketo instances to give the user support access.
+   * Option 1: **[!UICONTROL Basic support administrator]**. Select this option if you would like to give the user support access for all solutions (except Marketo Engage).
+   * Option 2: **[!UICONTROL Product support administrator]**: Select this option for Marketo Engage support. Select which Marketo Engage instances to give the user support access.
 
    ![Edit admin rights Marketo](assets/edit-admin-rights-advanced.png)
 
