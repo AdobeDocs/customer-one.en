@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 product: experience cloud
+feature-set: Experience Cloud
+feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] Help"
