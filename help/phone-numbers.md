@@ -1,26 +1,28 @@
 ---
-title: Support Phone Number update
-description: Update for new Support phone numbers
+title: Specify a preferred support phone number
+description: Update for Adobe Support phone numbers. Specify your preferred support phone number.
+exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 ---
-# Support Phone Number update
+# Specify a preferred support phone number
 
-Today, when a user gets assigned an 'Admin' role such as a 'Product Support Admin', they get an email informing them that they have administrator rights to manage the instance they have been granted admin rights for. 
- 
-The same email is now modified to include the text below in red. 
+When you get assigned an 'Admin' role such as a 'Product Support Admin', you should receive an email informing you that you have 'Administrator' rights to manage the instance for which you have been granted admin rights.
 
-![admin console](assets/admin-console-1.png)
+The email now contains the text below in red that explains how to go to your Account profile and share with us your preferred Support Phone Number.
 
-Clicking on the **Account Profile** link opens a new window that prompts them to sign in using `account.adobe.com`.
+![preferred support number](assets/admin-console-1.png)
 
-![sign in](assets/sign-in.png)
+To specify your preferred phone number:
 
-They go through the login process and land on the screen below on account.adobe.com.
-Where they click on the below tabs Account and security->Account to see the Support phone number field.
+1. Click on the **Account Profile** link to open a new window to sign in using `account.adobe.com`.
 
-Add a phone number here that you would like us to use for recognizing you for your support needs. 
+   ![sign in](assets/sign-in.png)
 
-![account info](assets/account-info.png)
+1. Go through the login process and land on the screen below on `account.adobe.com`.
+1. Then click on the below tabs Account and security > Account to see the Support phone number field.
+1. Add a phone number here that you would like us to use for recognizing you for your support needs.
 
-![phone number](assets/enter-phone-number.png)
+![specify details](assets/account-info.png)
+
+![add phone number](assets/enter-phone-number.png)
 
 ![results](assets/result.png)
