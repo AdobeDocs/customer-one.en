@@ -67,7 +67,7 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
 
-1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home?support-tab=home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
+1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
  ![Experience league support tab](./assets/experience-league-support-tab.png)
 1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
  ![Experience league support resources](./assets/experience-league-support-resources.png)
