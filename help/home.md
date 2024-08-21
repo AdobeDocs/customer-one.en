@@ -10,11 +10,11 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 
 ## Experience League Support Tickets
 
-Support Tickets are now able to be submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
+Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
 
 We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
-If you are on Adobe Commerce, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
+If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
 ## Support administrator submits Experience League support tickets {#submit-ticket}
 
@@ -22,7 +22,7 @@ In order to submit a support ticket in [Experience League](https://experiencelea
 
 If you are on Commerce, the process for sharing access to work with support cases is different. To learn more, refer to [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in the Experience League Support User Guide for Adobe Commerce.
 
-### Support Entitled Roles for Case Submission
+### Add support entitled roles to an organization
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
