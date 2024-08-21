@@ -10,7 +10,7 @@ user-guide-title: "[!DNL Customer One for Enterprise] Help"
 
 # [!DNL Customer One for Enterprise] {#using}
 
-+ [Introduction](home.md)
++ [Experience League Support Portal](home.md)
 + [Support Phone Number update](phone-numbers.md)
 + [Admin Roles](admin-roles.md)
 + [Contact Adobe Customer Care](customer-care.md)

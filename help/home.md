@@ -8,17 +8,21 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
 # Adobe Customer Support Experience
 
-## Admin Console Support Tickets
+## Experience League Support Tickets
 
-Support Tickets are now able to be submitted via the [Admin Console](https://adminconsole.adobe.com/). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
+Support Tickets are now able to be submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
 
-We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal.
+We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
-## How to submit an Admin Console support ticket {#submit-ticket}
+If you are on Adobe Commerce, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
-In order to submit a support ticket in [Admin Console](https://adminconsole.adobe.com/), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. For more information, visit the [enterprise and teams customer care](customer-care.md) documentation.
+## Support administrator submits Experience League support tickets {#submit-ticket}
 
-### Assign the Support admin role
+In order to submit a support ticket in [Experience League](https://experienceleague.adobe.com/home#support), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. To learn more about the different types of admin roles and their entitlements, refer to [Admin roles](https://experienceleague.adobe.com/en/docs/customer-one/using/admin-roles). 
+
+If you are on Commerce, the process for sharing access to work with support cases is different. To learn more, refer to [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in the Experience League Support User Guide for Adobe Commerce.
+
+### System administrator assigns Support administrator roles
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
@@ -59,31 +63,42 @@ As part of the sign-in process, users may be asked to set up an Adobe profile if
 
 For more details follow the [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
 
-### Create a support ticket with Admin Console
+### Create a support ticket with Experience League
 
-To create a ticket using [Admin Console](https://adminconsole.adobe.com/), select the **[!UICONTROL Support]** tab located in the top navigation. The [!UICONTROL Support Summary] page appears. Next, select the **[!UICONTROL Create Case]** option.
+The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
+
+1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home?support-tab=home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
+ ![Experience league support tab](./assets/experience-league-support-tab.png)
+1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
+ ![Experience league support resources](./assets/experience-league-support-resources.png)
+1. To submit a case, select **[!UCONTROL Open a support ticket]**. You can also select the **[!UCONTROl Open Ticket]** option on the sidebar menu. You will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process, please be as descriptive as possible when describing the issue you are facing.
+ ![Experience league open ticket](./assets/experience-league-open-ticket.png)
+1. Towards the end of the form, please fill out the following 
+
+   * Case Priority (Low, Medium, High, Critical)
+   * Case Product (DAM, Fusion, Goals, etc.)
+   * Environment (Production, Preview, Sandbox, etc.)
+   * Customer Region (Americas, EMEA, APAC)
+ 
+ ![Experience league ticket priority](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > If you are unable to see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, you need to contact a System Administrator to assign the Support admin role.
 
-![Admin Console Support tab](./assets/Support.png)
+  
 
-A dialog appears allowing you to select an issue type. Select the issue type that best describes your problem or question, then select **[!UICONTROL Create Case]** in the bottom-right.
+  
 
-![Select issue](./assets/select-case-type.png)
 
-The **[!UICONTROL Create Case]** dialog appears. You are asked to provide some information such as the product, priority, description, and attach any screenshots to help describe the issue. Select **[!UICONTROL Next]** to continue.
 
-![create case](./assets/create_case.png)
 
 >[!NOTE]
 >
 > If the issue results in outages or extremely serious interruptions to a production system, a phone number is provided for immediate assistance.
 
-The next page allows you to fill in contact information and provide the best time for Adobe Customer Support to contact you. Once complete, select **[!UICONTROL Submit]** in the bottom-right and your ticket is sent to Adobe Customer Support.
 
-![Submit ticket](./assets/submit_case.png)
+
 
 <!--
 
