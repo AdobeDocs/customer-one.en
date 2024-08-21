@@ -16,13 +16,13 @@ We are working to improve how you interact with Adobe Customer Support. Our visi
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
-## Support administrator submits Experience League support tickets {#submit-ticket}
+## Support entitled roles needed for case submission {#submit-ticket}
 
 In order to submit a support ticket in [Experience League](https://experienceleague.adobe.com/home#support), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. To learn more about the different types of admin roles and their entitlements, refer to [Admin roles](admin-roles.md). 
 
 If you are on Commerce, the process for sharing access to work with support cases is different. To learn more, refer to [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in the Experience League Support User Guide for Adobe Commerce.
 
-### Support entitled roles needed for case submission
+### Adding support entitles roles to an organization
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
