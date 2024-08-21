@@ -22,7 +22,7 @@ In order to submit a support ticket in [Experience League](https://experiencelea
 
 If you are on Commerce, the process for sharing access to work with support cases is different. To learn more, refer to [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in the Experience League Support User Guide for Adobe Commerce.
 
-### System administrator assigns Support administrator roles
+### Support Entitled Roles for Case Submission
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
