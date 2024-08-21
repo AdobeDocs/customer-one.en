@@ -71,7 +71,7 @@ The process for submitting support cases is now directly integrated with the Exp
  ![Experience league support tab](./assets/experience-league-support-tab.png)
 1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
  ![Experience league support resources](./assets/experience-league-support-resources.png)
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UCONTROl Open Ticket]** option on the sidebar menu. You will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process, please be as descriptive as possible when describing the issue you are facing.
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROl Open Ticket]** option on the sidebar menu. You will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process, please be as descriptive as possible when describing the issue you are facing.
  ![Experience league open ticket](./assets/experience-league-open-ticket.png)
 1. Towards the end of the form, fill out the following fields. When selecting any solution, you are asked the following, and some solutions have additional fields:
 
