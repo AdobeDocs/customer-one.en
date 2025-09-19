@@ -78,6 +78,8 @@ The process for submitting support cases is now directly integrated with the Exp
    * Case Priority (Low, Medium, High, Critical)
    * Business Impact 
    * Customer Timezone (Americas, EMEA, APAC)
+
+   For details on how Case Priority and Business Impact affect support response times, refer to to [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in Success Plans Resources Documentation for more information.
  
  ![Experience league ticket priority](./assets/experience-league-ticket-priority.png)
 
