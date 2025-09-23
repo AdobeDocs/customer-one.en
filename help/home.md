@@ -74,7 +74,7 @@ The process for submitting support cases is now directly integrated with the Exp
 1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
 
 
-### Fill out the suport ticket with  Experience League 
+### Fill out the suport ticket 
 
 After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process add the following information in the case description:
 
