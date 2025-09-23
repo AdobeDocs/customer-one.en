@@ -74,7 +74,13 @@ The process for submitting support cases is now directly integrated with the Exp
 1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
 
 
-### Fill out the suport ticket 
+### Fill out the suport ticket
+
+>[!NOTE]
+>
+> To check Adobe system performance, availability, and solution issues go to the [Adobe status](https://status.adobe.com) site. 
+
+
 
 1. After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
 
