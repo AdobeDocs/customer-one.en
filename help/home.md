@@ -71,9 +71,26 @@ The process for submitting support cases is now directly integrated with the Exp
  ![Experience league support tab](./assets/experience-league-support-tab.png)
 1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
  ![Experience league support resources](./assets/experience-league-support-resources.png)
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. You will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process, please be as descriptive as possible when describing the issue you are facing.
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
+
+
+### Fill out the suport ticket with  Experience League 
+
+After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process add the following information in the case description:
+
+* Clear problem statement
+* Steps to Reproduce
+* Business impact statement
+* Is this a new implementation / feature / development?
+* When was the time the process worked?
+* Troubleshooting steps taken
+* Relevant log data
+* Version number
+* Build info (if relevant)
+* Critical ddentifiers
+
  ![Experience league open ticket](./assets/experience-league-open-ticket.png)
-1. Towards the end of the form, fill out the following fields. When selecting any solution, you are asked the following, and some solutions have additional fields:
+1. When selecting any solution, you are asked the following, and some solutions have additional fields:
 
    * Case Priority (Low, Medium, High, Critical)
    * Business Impact 
