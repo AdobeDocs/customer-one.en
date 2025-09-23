@@ -76,7 +76,9 @@ The process for submitting support cases is now directly integrated with the Exp
 
 ### Fill out the suport ticket 
 
-After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process add the following information in the case description:
+After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
+
+To expedite the troubleshooting process add the following information in the case description:
 
 * Clear problem statement
 * Steps to Reproduce
