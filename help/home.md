@@ -78,7 +78,7 @@ The process for submitting support cases is now directly integrated with the Exp
 
 After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
 
-To expedite the troubleshooting process add the following information in the case description:
+To expedite the troubleshooting process add the following information in the **[!UICONTROL Case description]** field:
 
 * Clear problem statement
 * Steps to Reproduce
@@ -89,7 +89,7 @@ To expedite the troubleshooting process add the following information in the cas
 * Relevant log data
 * Version number
 * Build info (if relevant)
-* Critical ddentifiers
+* Critical identifiers
 
  ![Experience league open ticket](./assets/experience-league-open-ticket.png)
 1. When selecting any solution, you are asked the following, and some solutions have additional fields:
