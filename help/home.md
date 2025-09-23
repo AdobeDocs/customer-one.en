@@ -65,6 +65,10 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 ### Create a support ticket with Experience League
 
+>[!NOTE]
+>
+> Before submitting a support ticket, consider checking Adobe system performance, availability, and solution issues at the [Adobe status](https://status.adobe.com) site. 
+
 The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
 
 1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
@@ -75,12 +79,6 @@ The process for submitting support cases is now directly integrated with the Exp
 
 
 ### Fill out the suport ticket
-
->[!NOTE]
->
-> To check Adobe system performance, availability, and solution issues go to the [Adobe status](https://status.adobe.com) site. 
-
-
 
 1. After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
 
