@@ -65,15 +65,40 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 ### Create a support ticket with Experience League
 
+>[!NOTE]
+>
+> Before submitting a support ticket, consider checking Adobe system performance, availability, and solution issues at the [Adobe status](https://status.adobe.com) site. 
+
 The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
 
 1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
  ![Experience league support tab](./assets/experience-league-support-tab.png)
 1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
  ![Experience league support resources](./assets/experience-league-support-resources.png)
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. You will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), case title, and case description. To expedite the troubleshooting process, please be as descriptive as possible when describing the issue you are facing.
- ![Experience league open ticket](./assets/experience-league-open-ticket.png)
-1. Towards the end of the form, fill out the following fields. When selecting any solution, you are asked the following, and some solutions have additional fields:
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
+
+
+### Fill out the suport ticket
+
+1. After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
+
+    ![Experience league open ticket](./assets/experience-league-open-ticket.png)
+
+   To expedite the troubleshooting process add the following information in the **[!UICONTROL Case description]** field:
+
+   * Clear problem statement
+   * Steps to Reproduce
+   * Business impact statement
+   * Is this a new implementation / feature / development?
+   * When was the time the process worked?
+   * Troubleshooting steps taken
+   * Relevant log data
+   * Version number
+   * Build info (if relevant)
+   * Critical identifiers
+
+
+1. When selecting any solution, you are asked the following, and some solutions have additional fields:
 
    * Case Priority (Low, Medium, High, Critical)
    * Business Impact 
