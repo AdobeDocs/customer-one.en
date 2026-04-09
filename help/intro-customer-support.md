@@ -1,7 +1,7 @@
 ---
 title: Announcing the New Adobe Customer Support Experience (previous announcement)
 description: First customer communication for new support experience
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 ---
@@ -11,7 +11,7 @@ We care about our customers and are working to make it easier to get help from A
 
 ## More information
 
-In February and March, Adobe will be setting up both the new Support System Administrators and Support Users in this portal. If our records indicate that you currently act as a Support System Administrator in Adobe’s Admin Console – or – your name was listed on the purchase contract as Adobe’s customer contact for deploying Adobe Campaign and/or Adobe Experience Manager within your organization, you will be set up as the Support System Administrator for your organization.
+In February and March, Adobe will be setting up both the new Support System Administrators and Support Users in this portal. If our records indicate that you currently act as a Support System Administrator in Adobe's Admin Console – or – your name was listed on the purchase contract as Adobe's customer contact for deploying Adobe Campaign and/or Adobe Experience Manager within your organization, you will be set up as the Support System Administrator for your organization.
 Support System Administrators will act as super users in the Admin Console and will see system generated emails whenever a new support user is created. In addition, they will be able to:
 
 * Create/remove support users in the portal and govern access roles
