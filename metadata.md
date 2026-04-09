@@ -3,7 +3,7 @@ cloud: Experience Cloud
 solution: Experience Cloud
 type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.en
-hide: yes
+hide: true
 ---
 
 # Metadata for internal use

@@ -1,7 +1,7 @@
 ---
 title: New Adobe Customer Support Experience
 description: Customer communication for new support experience
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 ---
