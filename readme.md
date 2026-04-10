@@ -1,1 +1,3 @@
-# Help Content for Customer One for Enterprise
+# ARCHIVED
+
+This repo has been migrated to <https://github.com/Adobe-Enterprise-Docs/customer-one.en>.
