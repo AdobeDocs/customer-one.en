@@ -2,6 +2,25 @@
 title: Administrative Roles
 description: Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations, Organizations (AEC)
+  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+    internal-label: Onboarding
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Administrative Roles
 

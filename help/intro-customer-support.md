@@ -3,6 +3,10 @@ title: Announcing the New Adobe Customer Support Experience (previous announceme
 description: First customer communication for new support experience
 hide: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
+TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
 ---
 # New Adobe Customer Support Experience
 
