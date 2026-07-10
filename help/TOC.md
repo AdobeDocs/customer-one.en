@@ -13,7 +13,7 @@ user-guide-title: "[!DNL Customer One for Enterprise] Help"
 + [Experience League Support Portal](home.md)
 + [Support Phone Number update](phone-numbers.md)
 + [Admin Roles](admin-roles.md)
-+ Reference Documents {#ref-docs}
++ {hide-from-toc} Reference Documents {#ref-docs}
   + {hide-from-toc} [Prior Announcement](intro-customer-support.md)
   + {hide-from-toc} [Parkour Now Announcement](parkour-now.md)
 + Workfront Documents {#workfront}

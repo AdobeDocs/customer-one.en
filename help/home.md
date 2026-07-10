@@ -67,14 +67,18 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 >[!NOTE]
 >
-> Before submitting a support ticket, consider checking Adobe system performance, availability, and solution issues at the [Adobe status](https://status.adobe.com) site. 
+> Before submitting a support ticket, consider checking Adobe system performance, availability, and solution issues at the [Adobe status](https://status.adobe.com) site. 
 
 The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
 
 1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
- ![Experience league support tab](./assets/experience-league-support-tab.png)
+
+   ![Experience league support tab](./assets/experience-league-support-tab.png)
+
 1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
- ![Experience league support resources](./assets/experience-league-support-resources.png)
+
+   ![Experience league support resources](./assets/experience-league-support-resources.png)
+
 1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
 
 
@@ -82,7 +86,7 @@ The process for submitting support cases is now directly integrated with the Exp
 
 1. After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
 
-    ![Experience league open ticket](./assets/experience-league-open-ticket.png)
+   ![Experience league open ticket](./assets/experience-league-open-ticket.png)
 
    To expedite the troubleshooting process add the following information in the **[!UICONTROL Case description]** field:
 
@@ -106,16 +110,11 @@ The process for submitting support cases is now directly integrated with the Exp
 
    For details on how Case Priority and Business Impact affect support response times, refer to [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources Documentation.
  
- ![Experience league ticket priority](./assets/experience-league-ticket-priority.png)
+   ![Experience league ticket priority](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > If you are unable to see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, you need to contact a System Administrator to assign the Support admin role.
-
-  
-
-  
-
 
 
 
