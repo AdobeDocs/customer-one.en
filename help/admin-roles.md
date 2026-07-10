@@ -272,3 +272,4 @@ The following table lists all the permissions for the different types of admins,
 |Remove user group from product license | ✔ | |
 |View member of user group | ✔ | ✔ |
 |View list of user groups | ✔ | ✔ |
+
